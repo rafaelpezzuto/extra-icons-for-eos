@@ -13,7 +13,7 @@
    height="48"
    id="svg4296"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="clementine.svg">
+   sodipodi:docname="android-studio.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -28,7 +28,7 @@
      id="namedview8856"
      showgrid="false"
      inkscape:zoom="6.06"
-     inkscape:cx="-16.046205"
+     inkscape:cx="-55.815181"
      inkscape:cy="23.186441"
      inkscape:window-x="0"
      inkscape:window-y="30"
@@ -320,7 +320,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -381,7 +381,7 @@
   <g
      style="display:inline"
      id="g5006"
-     transform="matrix(0.4041572,0,0,0.4041572,-1.866043,-2.3824105)">
+     transform="matrix(0.57756481,0,0,0.57756481,-12.964128,-14.131094)">
     <g
        transform="translate(4.6088028e-7,1.000116)"
        id="g4904-9-2"
