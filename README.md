@@ -5,9 +5,7 @@
 * Clementine
 * Eclipse
 * Gephi
-* FileZilla
 * Project R
-* Sublime Text
 * Octave
 * VLC
 * Weka
