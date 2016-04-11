@@ -3,12 +3,12 @@ A custom set of vector icons designed specifically for [elementary OS](http://el
 
 These icons are licensed openly under the terms of the [GNU General Public License](LICENSE)
 
-![Android Studio icon](/apps/64/android-studio.svg) "Android Studio icon"
-![Clementine icon](/apps/64/clementine.svg) "Clementine icon"
-![Weka icon](/apps/64/weka.svg) "Weka icon"
-![WPS Presentation icon](/apps/64/wps-office-wppmain.svg) "WPS Presentation icon"
-![WPS Spreadsheets icon](/apps/64/wps-office-etmain.svg) "WPS Spreadsheets icon"
-![WPS Writer icon](/apps/64/wps-office-wpsmain.svg) "WPS Writer icon"
+![Android Studio icon](apps/64/android-studio.svg) "Android Studio icon"
+![Clementine icon](apps/64/clementine.svg) "Clementine icon"
+![Weka icon](apps/64/weka.svg) "Weka icon"
+![WPS Presentation icon](apps/64/wps-office-wppmain.svg) "WPS Presentation icon"
+![WPS Spreadsheets icon](apps/64/wps-office-etmain.svg) "WPS Spreadsheets icon"
+![WPS Writer icon](apps/64/wps-office-wpsmain.svg) "WPS Writer icon"
 
 ## Instructions
 Run install.sh as normal user. Do not run this script as root. Insert admin user password when asked by the script:
