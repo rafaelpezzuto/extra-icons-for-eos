@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=elementary-extra
-Inherits=elementaryPlus
+Inherits=elementary,elementaryPlus
 Comment=A collection of additions to the default and plus icon themes of elementary OS.
 
 Example=directory-x-normal
