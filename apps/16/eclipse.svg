@@ -27,19 +27,37 @@
      inkscape:window-height="713"
      id="namedview11509"
      showgrid="true"
-     inkscape:zoom="41.723484"
-     inkscape:cx="5.0961462"
-     inkscape:cy="7.0416462"
+     inkscape:zoom="36.322402"
+     inkscape:cx="16.060527"
+     inkscape:cy="7.975442"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4060">
+     inkscape:current-layer="svg4060"
+     inkscape:snap-grids="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true">
     <inkscape:grid
        type="xygrid"
        id="grid8498" />
   </sodipodi:namedview>
   <defs
      id="defs4062">
+    <linearGradient
+       id="linearGradient7545">
+      <stop
+         id="stop7553"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="0.5"
+         id="stop7555" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop7549" />
+    </linearGradient>
     <linearGradient
        id="linearGradient5755">
       <stop
@@ -198,6 +216,15 @@
          offset="1"
          id="stop5759-4" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7545"
+       id="linearGradient7551"
+       x1="-2.8520041"
+       y1="9.2682428"
+       x2="-2.8520041"
+       y2="3.2559094"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata4065">
@@ -222,7 +249,7 @@
      width="13" />
   <path
      sodipodi:type="arc"
-     style="opacity:0.07000002;fill:#ffffff;fill-opacity:1;stroke:none"
+     style="opacity:0.1;fill:url(#linearGradient7551);fill-opacity:1;stroke:none"
      id="path8496"
      sodipodi:cx="-2.8520041"
      sodipodi:cy="6.2620759"
