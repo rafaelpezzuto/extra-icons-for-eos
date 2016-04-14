@@ -27,17 +27,36 @@
      inkscape:window-height="713"
      id="namedview3941"
      showgrid="false"
-     inkscape:zoom="4.0400329"
+     inkscape:zoom="1.32"
      inkscape:cx="10.560954"
-     inkscape:cy="60.947772"
+     inkscape:cy="0.34171139"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer5"
      showguides="true"
      inkscape:guide-bbox="true" />
   <defs
      id="defs4115">
+    <linearGradient
+       id="linearGradient9100">
+      <stop
+         style="stop-color:#468cdc;stop-opacity:1;"
+         offset="0"
+         id="stop9102" />
+      <stop
+         id="stop9110"
+         offset="0.25999999"
+         style="stop-color:#3aa7d4;stop-opacity:1;" />
+      <stop
+         id="stop9108"
+         offset="0.69999999"
+         style="stop-color:#32c0c8;stop-opacity:1;" />
+      <stop
+         style="stop-color:#468cdc;stop-opacity:1;"
+         offset="1"
+         id="stop9104" />
+    </linearGradient>
     <linearGradient
        x1="20"
        y1="26.000008"
@@ -338,6 +357,17 @@
        id="radialGradient5774"
        xlink:href="#linearGradient3811-4"
        inkscape:collect="always" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9100"
+       id="radialGradient9106"
+       cx="-39.074867"
+       cy="67.001808"
+       fx="-39.074867"
+       fy="67.001808"
+       r="51.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,6.2106917,-7.0800387,0,538.37538,206.60891)" />
   </defs>
   <metadata
      id="metadata4118">
@@ -393,7 +423,7 @@
       </g>
     </g>
     <rect
-       style="opacity:0.90000000000000002;color:#000000;fill:#468cdc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="opacity:0.90000000000000002;color:#000000;fill:url(#radialGradient9106);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect5505-21-3"
        y="15.50181"
        x="12.499987"

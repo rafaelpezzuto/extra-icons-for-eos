@@ -27,15 +27,34 @@
      inkscape:window-height="713"
      id="namedview3941"
      showgrid="false"
-     inkscape:zoom="3.92"
+     inkscape:zoom="1.49"
      inkscape:cx="28.401169"
-     inkscape:cy="60.879477"
+     inkscape:cy="66.689628"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer5" />
   <defs
      id="defs4115">
+    <linearGradient
+       id="linearGradient5838">
+      <stop
+         style="stop-color:#304000;stop-opacity:1;"
+         offset="0"
+         id="stop5840" />
+      <stop
+         id="stop5848"
+         offset="0.25999999"
+         style="stop-color:#224800;stop-opacity:1;" />
+      <stop
+         id="stop5846"
+         offset="0.69999999"
+         style="stop-color:#195100;stop-opacity:1;" />
+      <stop
+         style="stop-color:#195100;stop-opacity:0;"
+         offset="1"
+         id="stop5842" />
+    </linearGradient>
     <linearGradient
        x1="20"
        y1="26.000008"
@@ -336,6 +355,17 @@
        id="radialGradient5774"
        xlink:href="#linearGradient3811-4"
        inkscape:collect="always" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5838"
+       id="radialGradient5844"
+       cx="-46.118267"
+       cy="67.001808"
+       fx="-46.118267"
+       fy="67.001808"
+       r="51.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,6.8151841,-6.9454364,0,529.35679,271.18803)" />
   </defs>
   <metadata
      id="metadata4118">
@@ -392,7 +422,7 @@
       </g>
     </g>
     <rect
-       style="opacity:0.9;color:#000000;fill:#195100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="opacity:0.90000000000000002;color:#000000;fill:url(#radialGradient5844);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect5505-21-3"
        y="15.50181"
        x="12.499987"
