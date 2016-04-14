@@ -4,7 +4,7 @@ A set of custom vector icons designed specifically for [elementary OS](http://el
 ![All icons](aux_images/all_icons.png?raw=true)
 
 ## Instructions
-Run install.sh as normal user. Do not run this script as root. Insert admin user password when asked by the script:
+Download and extract zip file. Run install.sh as normal user. Do not run this file as root. Insert admin password when asked by the script:
 
     ./install.sh
     [sudo] password for {username}:
@@ -23,22 +23,28 @@ Answer Y to the following question:
 Success:
 
     [1] Making dir...
-	[2] Copying icon theme...
-	[OK] Extra Icons for elementary OS have been instaled.
+    [2] Copying icon theme...
+    [OK] Extra Icons for elementary OS have been instaled.
 
-	[I] This part of the script is running as normal user.
-	[3] Changing icon theme from 'elementary-extra' to 'elementary-extra'...
-	[OK] Success.
+    [I] This part of the script is running as normal user.
+    [3] Changing icon theme from 'elementary-extra' to 'elementary-extra'...
+    [OK] Success.
 
 ## List of applications
-* Android Studio
-* Clementine
-* Eclipse
-* Gephi [future commit]
-* Project R [future commit]
-* Octave [future commit]
-* VLC
-* Weka
-* WPS Presentation
-* WPS Spreadsheets
-* WPS Writer
+* [Android Studio](http://developer.android.com/sdk/index.html)
+* [Clementine Music Player](https://www.clementine-player.org)
+* [Chromium Web Browser](https://www.chromium.org/) (**soon**)
+* [Eclipse](https://eclipse.org/)
+* [Firefox](https://www.mozilla.org/en-US/firefox/) (**soon**)
+* [Gephi](https://gephi.org/) (**soon**)
+    * Is a visualization and exploration software for all kinds of graphs and networks
+* [Project R](https://www.r-project.org/) (**soon**) 
+    * Is a free software environment for statistical computing and graphics
+* [Octave](https://www.gnu.org/software/octave/) (**soon**)
+    * Is a high-level interpreted language, primarily intended for numerical computations
+* [VLC Media Player](http://www.videolan.org/vlc/)
+* [Weka](http://www.cs.waikato.ac.nz/ml/weka/)
+    * Is a data mining software in Java
+* [WPS Presentation](http://wps-community.org/)
+* [WPS Spreadsheets](http://wps-community.org/)
+* [WPS Writer](http://wps-community.org/)
