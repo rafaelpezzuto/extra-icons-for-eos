@@ -38,6 +38,8 @@ Success:
 * [Firefox](https://www.mozilla.org/en-US/firefox/) (**soon**)
 * [Gephi](https://gephi.org/) (**soon**)
     * Is a visualization and exploration software for all kinds of graphs and networks
+* [Meld Diff Viewer](http://meldmerge.org/)
+    * Is a visual diff and merge tool targeted at developers
 * [Project R](https://www.r-project.org/) (**soon**) 
     * Is a free software environment for statistical computing and graphics
 * [Octave](https://www.gnu.org/software/octave/) (**soon**)
