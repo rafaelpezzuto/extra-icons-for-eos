@@ -33,16 +33,14 @@ Success:
 ## List of applications
 * [Android Studio](http://developer.android.com/sdk/index.html)
 * [Clementine Music Player](https://www.clementine-player.org)
-* [Chromium Web Browser](https://www.chromium.org/) (**soon**)
 * [Eclipse](https://eclipse.org/)
-* [Firefox](https://www.mozilla.org/en-US/firefox/) (**soon**)
 * [Gephi](https://gephi.org/) (**soon**)
     * Is a visualization and exploration software for all kinds of graphs and networks
 * [Meld Diff Viewer](http://meldmerge.org/)
     * Is a visual diff and merge tool targeted at developers
 * [Project R](https://www.r-project.org/) (**soon**) 
     * Is a free software environment for statistical computing and graphics
-* [Octave](https://www.gnu.org/software/octave/) (**soon**)
+* [Octave](https://www.gnu.org/software/octave/)
     * Is a high-level interpreted language, primarily intended for numerical computations
 * [VLC Media Player](http://www.videolan.org/vlc/)
 * [Weka](http://www.cs.waikato.ac.nz/ml/weka/)
