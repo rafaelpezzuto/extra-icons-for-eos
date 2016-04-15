@@ -33,9 +33,7 @@ Success:
 ## List of applications
 * [Android Studio](http://developer.android.com/sdk/index.html)
 * [Clementine Music Player](https://www.clementine-player.org)
-* [Chromium Web Browser](https://www.chromium.org/) (**soon**)
 * [Eclipse](https://eclipse.org/)
-* [Firefox](https://www.mozilla.org/en-US/firefox/) (**soon**)
 * [Gephi](https://gephi.org/) (**soon**)
     * Is a visualization and exploration software for all kinds of graphs and networks
 * [Meld Diff Viewer](http://meldmerge.org/)
