@@ -3135,7 +3135,7 @@
        x2="-65.806717"
        y2="87.916885"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0840609,0,0,0.42077922,120.49377,735.7317)" />
+       gradientTransform="matrix(1.0840609,0,0,0.42077922,-1211.2464,735.7317)" />
     <linearGradient
        id="linearGradient3811-4-92">
       <stop
@@ -17539,7 +17539,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.02"
+     inkscape:zoom="0.73"
      inkscape:cx="498.86056"
      inkscape:cy="98.59904"
      inkscape:document-units="px"
@@ -17576,10 +17576,11 @@
        id="rect5565"
        width="1235.2941"
        height="160"
-       x="48.223057"
+       x="-1283.5171"
        y="693.80481"
        rx="6.6789403"
-       ry="4.5963035" />
+       ry="4.5963035"
+       transform="scale(-1,1)" />
     <g
        id="g8116"
        transform="translate(779.96881,704.30346)">

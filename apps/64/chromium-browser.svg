@@ -29,13 +29,24 @@
      showgrid="false"
      inkscape:zoom="5.570207"
      inkscape:cx="12.786694"
-     inkscape:cy="31.21904"
+     inkscape:cy="45.581163"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg13986" />
   <defs
      id="defs13988">
+    <linearGradient
+       id="linearGradient6355">
+      <stop
+         style="stop-color:#162c4e;stop-opacity:1;"
+         offset="0"
+         id="stop6357" />
+      <stop
+         style="stop-color:#23467d;stop-opacity:1;"
+         offset="1"
+         id="stop6359" />
+    </linearGradient>
     <linearGradient
        id="linearGradient7377">
       <stop
@@ -1035,6 +1046,15 @@
        id="linearGradient21362"
        xlink:href="#linearGradient3924-2-2-5-8-0"
        inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6355"
+       id="linearGradient6361"
+       x1="26.12619"
+       y1="32.001026"
+       x2="37.873784"
+       y2="32.001026"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata13991">
@@ -2083,12 +2103,12 @@
      d="m 40.009712,32.008008 a 8.0097232,8.0097232 0 0 1 -16.019446,0 8.0097232,8.0097232 0 1 1 16.019446,0 z" />
   <path
      inkscape:connector-curvature="0"
-     style="opacity:0.2;color:#000000;fill:#162c4e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.33830979;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="opacity:0.20000000000000001;color:#000000;fill:url(#linearGradient6361);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.33830979000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="path4356-8-9-9-8-7-8-6-6"
      d="m 37.873782,32.005873 a 5.873797,5.873797 0 0 1 -11.74759,0 5.873797,5.873797 0 1 1 11.74759,0 z" />
   <path
      inkscape:connector-curvature="0"
-     style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.33830979;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="opacity:0.1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.33830979000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="path4356-8-9-9-8-7-8-6-6-3"
      d="m 37.873782,32.540216 a 5.873797,5.873797 0 0 1 -11.74759,0 5.873797,5.873797 0 1 1 11.74759,0 z" />
   <rect
