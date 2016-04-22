@@ -12,7 +12,7 @@ Download and extract zip file. Run install.sh as normal user. Do not run this fi
 Output:
 
     #---------------------------------------------#
-    #        Extra Icons for elementary OS#       #
+    #        Extra Icons for elementary OS        #
     #---------------------------------------------#
     [I] This part of the script is running as root.
 
@@ -38,8 +38,6 @@ Success:
     * Is a visualization and exploration software for all kinds of graphs and networks
 * [Meld Diff Viewer](http://meldmerge.org/)
     * Is a visual diff and merge tool targeted at developers
-* [Project R](https://www.r-project.org/) (**soon**) 
-    * Is a free software environment for statistical computing and graphics
 * [Octave](https://www.gnu.org/software/octave/)
     * Is a high-level interpreted language, primarily intended for numerical computations
 * [VLC Media Player](http://www.videolan.org/vlc/)
