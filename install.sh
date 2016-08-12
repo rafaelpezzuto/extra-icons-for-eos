@@ -1,7 +1,8 @@
 #!/bin/bash
-# Authors:
+#
+# Authors
 #   Rafael Pezzuto <rafael.pezzuto@gmail.com>
-# 
+#
 
 # Check for admin rights
 if [[ "$(id -u)" = "0" ]]; then
