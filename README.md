@@ -8,7 +8,7 @@ Download and extract zip file. Run install.sh as normal user. Do not run this fi
 
     ./install.sh
     [sudo] password for {username}:
-    
+
 Output:
 
     #---------------------------------------------#
@@ -19,7 +19,7 @@ Output:
 Answer Y to the following question:
 
     [?] Would you like to install the Extra Icons for elementary OS? (Y)es, (N)o: Y
-    
+
 Success:
 
     [1] Making dir...
@@ -33,16 +33,15 @@ Success:
 ## List of applications
 * [Android Studio](http://developer.android.com/sdk/index.html)
 * [Clementine Music Player](https://www.clementine-player.org)
-* [Eclipse](https://eclipse.org/)
-* [Gephi](https://gephi.org/) (**soon**)
-    * Is a visualization and exploration software for all kinds of graphs and networks
-* [Meld Diff Viewer](http://meldmerge.org/)
-    * Is a visual diff and merge tool targeted at developers
-* [Octave](https://www.gnu.org/software/octave/)
-    * Is a high-level interpreted language, primarily intended for numerical computations
-* [VLC Media Player](http://www.videolan.org/vlc/)
-* [Weka](http://www.cs.waikato.ac.nz/ml/weka/)
-    * Is a data mining software in Java
-* [WPS Presentation](http://wps-community.org/)
-* [WPS Spreadsheets](http://wps-community.org/)
-* [WPS Writer](http://wps-community.org/)
+* [Cytoscape](http://www.cytoscape.org)
+* [Eclipse](https://eclipse.org)
+* [Gephi](https://gephi.org)
+* [Meld Diff Viewer](http://meldmerge.org)
+* [Netbeans](https://netbeans.org)
+* [Octave](https://www.gnu.org/software/octave)
+* [R](https://www.r-project.org)
+* [VLC Media Player](http://www.videolan.org/vlc)
+* [Weka](http://www.cs.waikato.ac.nz/ml/weka)
+* [WPS Presentation](http://wps-community.org)
+* [WPS Spreadsheets](http://wps-community.org)
+* [WPS Writer](http://wps-community.org)
